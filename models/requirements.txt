@@ -1,0 +1,7 @@
+tf-models-official
+tensorflow
+pandas
+numpy
+keras
+tensorflow_hub
+tensorflow_text
